@@ -1,7 +1,7 @@
 {
   "name": "blear.classes.alipay",
   "version": "1.0.0",
-  "description": "描述",
+  "description": "alipay API",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",
     "test": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha test/**/test.*.js",
